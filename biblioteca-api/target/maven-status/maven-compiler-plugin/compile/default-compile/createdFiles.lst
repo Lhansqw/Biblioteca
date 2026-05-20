@@ -1,0 +1,8 @@
+com\biblioteca\model\Libro.class
+com\biblioteca\service\impl\LibroServiceImpl.class
+com\biblioteca\dto\LibroResponse.class
+com\biblioteca\repository\LibroRepository.class
+com\biblioteca\dto\LibroRequest.class
+com\biblioteca\service\LibroService.class
+com\biblioteca\BibliotecaApiApplication.class
+com\biblioteca\controller\LibroController.class
